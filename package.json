@@ -1,0 +1,16 @@
+{
+  "name": "gias-de-hoteles",
+  "version": "1.0.0",
+  "description": "Primer proyecto nodejs",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://Juampa03@bitbucket.org/Juampa03/gias-de-hoteles.git"
+  },
+  "author": "juan pablo",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/Juampa03/gias-de-hoteles#readme"
+}
